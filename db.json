@@ -1,0 +1,14 @@
+{
+    "user": [
+      { 
+        "name": "Tuan Ngoc",
+        "birthday": "10-03-2004",
+        "id": "1"
+      },
+      { 
+        "name": "Tuan Anh",
+        "birthday": "19-08-2005",
+        "id": "2"
+      }
+    ]
+}
